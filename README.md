@@ -1,5 +1,7 @@
-### Hi there 👋
+#### Yo!
 
+ - I'm a would be systems or embedded systems programmer that might ultimately become game developer instead x)
+ - Speaks 🇱🇻 and 🇬🇧
 <!--
 **1ivyatan/1ivyatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
