@@ -1,4 +1,4 @@
- - I'm an aspiring software developer focused on systems 📈🖥️
+ - I'm an aspiring software developer focused on systems or the backend ⚙️🖥️
  - I speak 🇱🇻 and 🇬🇧
  - And undeterred to acquire more 🔎
 
