@@ -2,7 +2,7 @@
 
  ➡️ An aspiring and motivated developer 📈
  
- ➡️ 🔰 Learning to develop 🌐 web and 🖥️ system applications 
+ ➡️ 🔰 Learning to develop 🌐 web, 🖥️ system applications and database engineering 🗄️🗃️
  
  ➡️ Passionate about 📋 designing ⚙️ systems, developing 🎮 games and 🖼️ artistry by code
  
