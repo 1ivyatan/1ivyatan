@@ -10,7 +10,7 @@
 
  <div align="center">
 
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,php,laravel,mysql,sqlite,cs,java,c,godot,bash)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,vue,php,laravel,mysql,mongodb,cs,java,c,godot)](https://skillicons.dev)
   
  </div>
 
