@@ -44,6 +44,6 @@
 
 <div align="center">
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ivyatan&hide_progress=true)
+ [![top langs](https://github-stats-extended.vercel.app/api/top-langs?username=1ivyatan&layout=compact&langs_count=6&disable_animations=true)](https://github-stats-extended.vercel.app/api/top-langs?username=1ivyatan&layout=compact&langs_count=6&disable_animations=true)
 
 </div>
