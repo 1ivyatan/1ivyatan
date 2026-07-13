@@ -44,6 +44,6 @@
 
 <div align="center">
  
-[![top langs](https://github-stats-extended.vercel.app/api/top-langs?username=1ivyatan&layout=compact&langs_count=4&disable_animations=true&theme=default_repocard)](https://github-stats-extended.vercel.app/api/top-langs?username=1ivyatan&layout=compact&langs_count=4&disable_animations=true&theme=default_repocard)
+[![top langs](https://github-stats-extended.vercel.app/api/top-langs?username=1ivyatan&layout=compact&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=1ivyatan&layout=compact&langs_count=4)
 
 </div>
